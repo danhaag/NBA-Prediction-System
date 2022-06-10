@@ -13,7 +13,7 @@ Utilize TF to train prediction model  \
 
 Backtest model against sportsbook data \
 
-Backtest model against custom generated outcome
+Backtest model against custom generated outcome \
 
 
 Created for educational purposes only.
